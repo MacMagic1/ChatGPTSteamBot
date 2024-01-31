@@ -1,7 +1,6 @@
 # ChatGPTSteamBot
 ChatGPT-powered steam bot
 
-The project directory will have a config.ini file. 
 
 To connect to Steam:
 
