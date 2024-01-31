@@ -1,5 +1,5 @@
 # ChatGPTSteamBot
-ChatGPT-powered steam bot
+ChatGPT-powered steam bot interfacing the SteamKit2 library with the OpenAI API
 
 At first, running HelpBot.exe will give errors saying there isn't an API key or Steam login credentials: 
 
