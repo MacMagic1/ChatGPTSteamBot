@@ -5,8 +5,8 @@ The project directory will have a config.ini file.
 
 To connect to Steam:
 
-1. Populate the username parameter (replace "Placeholder" with your steam username that you use to log in) SteamUsername=PLACEHOLDER in the config.ini file in the project directory
-2. Populate the password parameter (replace "Placeholder" with your steam password) SteamPassword=PLACEHOLDER in the config.ini file in the project directory
+1. Populate the username parameter SteamUsername=PLACEHOLDER in the config.ini file in the project directory with the username you use to log into Steam
+2. Populate the password parameter SteamPassword=PLACEHOLDER in the config.ini file in the project directory
 
 To Connect to OpenAI API:
 
