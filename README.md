@@ -12,7 +12,7 @@ To connect to Steam:
 1. Populate the username parameter SteamUsername=PLACEHOLDER in the config.ini file in the project directory with the username you use to log into Steam
 2. Populate the password parameter SteamPassword=PLACEHOLDER in the config.ini file in the project directory
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](Pictures/After_Configured.png)
 
 To Connect to OpenAI API:
 
@@ -22,7 +22,7 @@ To Connect to OpenAI API:
 4. Press "Create new secret key"
 5. Take note of that secret key and populate it into the APIKey=PLACEHOLDER parameter in the config.ini file
 
-![alt text](Pictures/After_Configured.png)
+![alt text](Pictures/OpenAI_API_Key.png)
 
 With the config.ini file filled out run HelpBot.exe to run the bot. More settings can be adjusted in the ini file to get the functionality you want. 
 
