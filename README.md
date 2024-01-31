@@ -20,14 +20,14 @@ To Connect to OpenAI API:
 
 1. To get the OpenAI API interface to work, log into your openAI API page: https://platform.openai.com/docs/overview
 2. Create or log into an account
-3. In the menu on the left hand side of the screen go down to "API Keys"
+3. In the menu on the left-hand side of the screen, go down to "API Keys"
 4. Press "Create new secret key"
 5. Take note of that secret key and populate it into the APIKey=PLACEHOLDER parameter in the HelpBot/bin/Debug/config.ini file
 
 ![alt text](Pictures/OpenAI_API_Key.png)
 
-With the config.ini file filled out run HelpBot.exe to run the bot. More settings can be adjusted in the ini file to get the functionality you want. 
+With the config.ini file filled out, run HelpBot.exe to run the bot. More settings can be adjusted in the config.ini file to get the functionality you want. 
 
-If the steam credentials provided have MFA or mobile authenticator set up, youll be asked to provide the code in the console: 
+If the steam credentials provided have MFA or mobile authenticator set up, you will be asked to provide the code in the console: 
 
 ![alt text](Pictures/SteamGuard_Needed.png)
