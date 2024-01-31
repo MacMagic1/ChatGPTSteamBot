@@ -31,3 +31,7 @@ With the config.ini file filled out, run HelpBot.exe to run the bot. More settin
 If the steam credentials provided have MFA or mobile authenticator set up, you will be asked to provide the code in the console: 
 
 ![alt text](Pictures/SteamGuard_Needed.png)
+
+After the MFA process is finished, you will see the below messages in the console, indicating that your steam bot is ready to receive messages:
+
+![alt text](Pictures/Logged_In_And_Running.png)
