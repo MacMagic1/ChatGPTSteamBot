@@ -1,11 +1,11 @@
 # ChatGPTSteamBot
 ChatGPT-powered steam bot
 
-At first, running the project will give errors saying there isn't an API key or Steam login credentials: 
-
-![alt text](Pictures/Before_Configured.png)
+At first, running HelpBot.exe will give errors saying there isn't an API key or Steam login credentials: 
 
 ![alt text](Pictures/Before_Setting_Key_And_Login.png)
+
+![alt text](Pictures/Before_Configured.png)
 
 To connect to Steam:
 
